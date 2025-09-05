@@ -1,7 +1,7 @@
 # First-Air-Canadian-North-Merger
 Research paper for Economics of Antitrust seminar
 
-Abstract. Canadian North and First Air has been two critical regional airlines to northern 
+Canadian North and First Air has been two critical regional airlines to northern 
 Canada for goods supply and connecting to larger cities in the south. In 2019, the 
 Government of Canada approved a proposed merger between these two airlines for public 
 interest considerations despite potential anticompetitive concerns. To evaluate this merger 
